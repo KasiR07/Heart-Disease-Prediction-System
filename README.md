@@ -62,3 +62,8 @@ Heart-Disease-Prediction-System/
   - Slope, CA, Thal, etc.
 
 ---
+## Visualizations
+
+![image](https://github.com/user-attachments/assets/cf349163-89d4-429f-b723-f0f51a3e64d9)
+
+
